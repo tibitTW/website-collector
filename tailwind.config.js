@@ -8,6 +8,6 @@ module.exports = {
     },
     plugins: [
         // Iconify plugin, requires writing list of icon sets to load
-        addIconSelectors(["lucide"]),
+        addIconSelectors({ prefixes: ["lucide"], scale: 1 }),
     ],
 };
