@@ -1,0 +1,6 @@
+:root {
+    --divider-width: 2px;
+    --divider-active-width: 4px;
+    --sidemenu-max-width: 320px;
+    --sidemenu-min-width: 160px;
+}
