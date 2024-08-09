@@ -17,4 +17,3 @@ defineProps({ icon: String, url: String });
         </div>
     </a>
 </template>
-
