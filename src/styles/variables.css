@@ -1,6 +1,9 @@
 :root {
-    --divider-width: 2px;
+    --divider-width: 1px;
     --divider-active-width: 4px;
+    --divider-bg-color: theme('colors.blue.100');
+    --divider-active-bg-color: theme('colors.blue.600');
+    --icon-btn-size: 24px;
     --sidemenu-max-width: 320px;
     --sidemenu-min-width: 160px;
 }
