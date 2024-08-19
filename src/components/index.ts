@@ -1,5 +1,5 @@
-import Key from "./Key.vue";
-import Link from "./Link.vue";
-import Hint from "./Hint.vue";
+import Key from './Key.vue'
+import Link from './Link.vue'
+import Hint from './common/Hint.vue'
 
-export { Key, Link, Hint };
+export { Key, Link, Hint }
